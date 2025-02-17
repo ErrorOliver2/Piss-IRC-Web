@@ -1,4 +1,4 @@
-Web-IRC
+# Piss IRC (Web)
 A feature-rich Websocket IRC client in JavaScript
 
 • Multi-server support.<br>
